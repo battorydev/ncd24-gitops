@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/battorydev/ncd24-fastapi
-  tag: dev-1649c3f
+  tag: dev-4c76c0e
   pullPolicy: Always
 probe:
   enabled: true
